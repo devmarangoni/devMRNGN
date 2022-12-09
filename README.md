@@ -32,7 +32,7 @@
   ### 👽 Why did I choose to program? 👽
   <footer>
     <blockquote>
-      Programming is a love for me, I feel very good when I come across things that require logic and other skills.
+      Programming is a love for me, I feel very well when I come across things that require logic and other skills.
       Technology opened my eyes when I was just a kid, I always loved studying and it has pushed me further and further to become an efficient and effective data analyst and developer.
     </blockquote>
   </footer>
