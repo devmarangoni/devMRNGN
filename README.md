@@ -45,6 +45,9 @@
    <img src="https://img.icons8.com/color/480/c-programming.png" alt="Language C logo" width="50">
  </div>
 </body>
+<br> 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devMRNGN&bg_color=79b8d2&color=000000&line=0008ff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Hope you got to know a little bit about me thanks for reading
 <blockquote>By: DevMRNGN</blockquote>
