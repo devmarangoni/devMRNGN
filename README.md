@@ -63,10 +63,16 @@
 </p>
 
 <div align="center">
+    <br>
+    <p align="center"><b>Visitors Count</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devMRNGN}/count.svg"></p>
+    <br>
+</div>
+
+<div align="center">
   <h3> Hope you got to know a little bit about me thanks for reading </h3>
   <blockquote>By: DevMRNGN</blockquote>
 </div>
-<!---
-devMRNGN/devMRNGN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=df0000&height=120&section=footer">
+
