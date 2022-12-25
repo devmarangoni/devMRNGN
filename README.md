@@ -12,8 +12,8 @@
     <p align="center"><img src="https://slackmojis.com/emojis/10717-csgo/download" alt="CS logo" width="20" height="20">  I love Counter-Strike</p>
     <h3 align="center">Certificates :)</h3>
     <div align="center">
-    <img align="center" src="https://images2.imgbox.com/07/09/7xFbe8PH_o.png" alt="conectar" width="450">
-    <img align="center" src="https://images2.imgbox.com/35/37/78xFXDsM_o.png" alt="Fundamentar" width="450>
+    <img src="https://images2.imgbox.com/07/09/7xFbe8PH_o.png" alt="conectar" width="500">
+    <img src="https://images2.imgbox.com/35/37/78xFXDsM_o.png" alt="Fundamentar" width="500>
     </div>
   </header>
   <main align="center">
