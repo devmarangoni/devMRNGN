@@ -10,10 +10,6 @@
     <p align="center"><img src="https://slackmojis.com/emojis/2240-programmer/download" alt="Emoji" width="20" height="20">  Studying C language in college</p>
     <p align="center"><img src="https://slackmojis.com/emojis/37629-job-search/download" alt="Emoji" width="20" height="20">  Looking for a job</p>
     <p align="center"><img src="https://slackmojis.com/emojis/10717-csgo/download" alt="CS logo" width="20" height="20">  I love Counter-Strike</p>
-    <h3 align="center">Certificates :)</h3>
-    <div align="center">
-    <img src="https://images2.imgbox.com/07/09/7xFbe8PH_o.png" alt="conectar" width="500">
-    <img src="https://images2.imgbox.com/35/37/78xFXDsM_o.png" alt="Fundamentar" width="500>
     </div>
   </header>
   <main align="center">
@@ -52,14 +48,14 @@
    
  </div>
 </body>
-<br> 
+
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMRNGN&show_icons=true&count_private=true&hide_border=true&title_color=ff2400&icon_color=ff2400&text_color=c9d1d9&bg_color=0d1117" alt="devMRNGN github stats">
     <img width="48.4%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRNGN&layout=compact&hide_border=true&title_color=ff2400&text_color=ff2400&bg_color=0d1117" alt="">
 </div>
 
-<br>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devMRNGN&bg_color=0d1117&color=cc0000&line=ffffff&point=cc0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
