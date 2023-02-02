@@ -55,24 +55,17 @@
 
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMRNGN&show_icons=true&count_private=true&hide_border=true&title_color=ff2400&icon_color=ff2400&text_color=c9d1d9&bg_color=0d1117" alt="devMRNGN github stats">
-    <img width="48.4%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRNGN&layout=compact&hide_border=true&title_color=ff2400&text_color=ff2400&bg_color=0d1117" alt="">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMRNGN&show_icons=true&count_private=true&hide_border=true&title_color=1AA7EC&icon_color=1AA7EC&text_color=1AA7EC&bg_color=0d1117" alt="devMRNGN github stats">
+    <img width="48.4%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRNGN&bg_color=0d1117&text_color=1AA7EC&hide_border=true&layout=compact&hide=html,ejs,css" alt="">
 </div>
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devMRNGN&bg_color=0d1117&color=cc0000&line=ffffff&point=cc0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devMRNGN&bg_color=0d1117&color=1AA7EC&line=ffffff&point=1AA7EC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devMRNGN&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15">
 </p>
-
-<div align="center">
-    <br>
-    <p align="center"><b>Visitors Count</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devMRNGN}/count.svg"></p>
-    <br>
-</div>
 
 <div align="center">
   <h3> Hope you got to know a little bit about me thanks for reading </h3>
