@@ -6,7 +6,7 @@
 <body align="center">
   <header align="center">
         <h2 align="center">↘️ About me ↙️</h2>
-    <p align="center"><img src="https://slackmojis.com/emojis/1161-react/download" alt="react icon" width="20" height="20"><img src="https://slackmojis.com/emojis/61490-old-man-yells-at-typescript/download" alt="typescript icon" width="20" height="20"> Currently studying Typscript and ReactJS</p>
+    <p align="center"><img src="https://slackmojis.com/emojis/1161-react/download" alt="react icon" width="20" height="20"><img src="https://slackmojis.com/emojis/61490-old-man-yells-at-typescript/download" alt="typescript icon" width="20" height="20"> Currently studying no-code, APEX, LWC and Salesforce platform generals</p>
     <p align="center"><img src="https://slackmojis.com/emojis/2240-programmer/download" alt="Emoji" width="20" height="20">  Studying C language in college</p>
     <p align="center"><img src="https://slackmojis.com/emojis/37629-job-search/download" alt="Emoji" width="20" height="20">  Working at BEECLOUD - Intern systems developer</p>
     <p align="center"><img src="https://slackmojis.com/emojis/10717-csgo/download" alt="CS logo" width="20" height="20">  I love GAMES and MAKE program <img src="https://slackmojis.com/emojis/59950-nickyoung-huh/download" alt="meme icon" width="20" height="20"></p>
