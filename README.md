@@ -34,7 +34,8 @@
   <footer>
     <blockquote align="center">
       Programming is a love for me, I feel very well when I come across things that require logic and other skills.
-      Technology opened my eyes when I was just a kid, I always loved studying and it has pushed me further and further to become an efficient and effective data analyst and developer.
+      Technology opened my eyes when I was just a kid, I always loved studying and it has pushed me further and further to become an efficient, effective and creative data analyst and developer.
+      I always try to pay attention to ideas, because the more innovations the better, in the end we can change the world at any time, even if the idea seems silly, sometimes it is this worked idea that becomes something important for people.
     </blockquote>
   </footer>
   
