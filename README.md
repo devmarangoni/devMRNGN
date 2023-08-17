@@ -10,6 +10,7 @@
     <p align="center"><img src="https://slackmojis.com/emojis/2240-programmer/download" alt="Emoji" width="20" height="20">  Studying C language in college</p>
     <p align="center"><img src="https://slackmojis.com/emojis/37629-job-search/download" alt="Emoji" width="20" height="20">  Working at BEECLOUD - Intern systems developer</p>
     <p align="center"><img src="https://slackmojis.com/emojis/10717-csgo/download" alt="CS logo" width="20" height="20">  I love GAMES and MAKE program <img src="https://slackmojis.com/emojis/59950-nickyoung-huh/download" alt="meme icon" width="20" height="20"></p>
+    <a align="center" href="https://www.devmarangoni.com/"></a>Portifolio</a>
     </div>
   </header>
   <main align="center">
