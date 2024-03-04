@@ -26,7 +26,6 @@
       <a href="mailto:joao.tadeuzi00@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-008080?style=for-the-badge&logo=Gmail" alt="Gmail LOGO" target="_blank">
       </a>
-      <p align="center"><a align="center" href="https://www.devmarangoni.com" target="_blank">Portifólio</a></p>
     </div>
   </main>
   
