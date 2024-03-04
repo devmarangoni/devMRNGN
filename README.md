@@ -6,11 +6,9 @@
 <body align="center">
   <header align="center">
         <h2 align="center">↘️ About me ↙️</h2>
-    <p align="center"><img src="https://slackmojis.com/emojis/1161-react/download" alt="react icon" width="20" height="20"><img src="https://slackmojis.com/emojis/61490-old-man-yells-at-typescript/download" alt="typescript icon" width="20" height="20"> Currently studying no-code, APEX, LWC and Salesforce platform generals</p>
-    <p align="center"><img src="https://slackmojis.com/emojis/2240-programmer/download" alt="Emoji" width="20" height="20">  Studying C language in college</p>
-    <p align="center"><img src="https://slackmojis.com/emojis/37629-job-search/download" alt="Emoji" width="20" height="20">  Working at BEECLOUD - Intern systems developer</p>
-    <p align="center"><img src="https://slackmojis.com/emojis/10717-csgo/download" alt="CS logo" width="20" height="20">  I love GAMES and MAKE program <img src="https://slackmojis.com/emojis/59950-nickyoung-huh/download" alt="meme icon" width="20" height="20"></p>
-    <p align="center"><a align="center" href="https://www.devmarangoni.com" target="_blank">Portifolio</a></p>
+    <p align="center"><img src="https://slackmojis.com/emojis/1161-react/download" alt="react icon" width="20" height="20"><img src="https://slackmojis.com/emojis/61490-old-man-yells-at-typescript/download" alt="typescript icon" width="20" height="20"> Currently studying Test driven development ( software architecture )</p>
+    <p align="center"><img src="https://slackmojis.com/emojis/37629-job-search/download" alt="Emoji" width="20" height="20">  Working at BEECLOUD - Fullstack Junior Developer</p>
+    <p align="center"><a align="center" href="https://www.devmarangoni.com" target="_blank">Portifólio</a></p>
     </div>
   </header>
   <main align="center">
@@ -28,22 +26,20 @@
       <a href="mailto:joao.tadeuzi00@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-008080?style=for-the-badge&logo=Gmail" alt="Gmail LOGO" target="_blank">
       </a>
+      <p align="center"><a align="center" href="https://www.devmarangoni.com" target="_blank">Portifólio</a></p>
     </div>
   </main>
   
   <h2 align="center">👽 Why did I choose to program? 👽</h2>
   <footer>
     <blockquote align="center">
-      Programming is a love for me, I feel very well when I come across things that require logic and other skills.
-      Technology opened my eyes when I was just a kid, I always loved studying and it has pushed me further and further to become an efficient, effective and creative data analyst and developer.
-      I always try to pay attention to ideas, because the more innovations the better, in the end we can change the world at any time, even if the idea seems silly, sometimes it is this worked idea that becomes something important for people.
+      Fix customer problems.
     </blockquote>
   </footer>
   
  <div align="center">
    <h2>🈯 Technologies 🈯</h2>
    
-  ![C](https://img.shields.io/badge/-Linguagem%20C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
   ![TypeScript](https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)&nbsp;
   ![ReactJS](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)&nbsp;
   ![NodeJS](https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)&nbsp;
@@ -52,9 +48,8 @@
   ![JavaScript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)&nbsp;
    ![HTML](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)&nbsp;
    ![CSS](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)&nbsp;
-  ![TAILWIND](https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)&nbsp;
    
-   
+
    
  </div>
 </body>
