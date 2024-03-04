@@ -31,9 +31,7 @@
   
   <h2 align="center">👽 Why did I choose to program? 👽</h2>
   <footer>
-    <blockquote align="center">
-      Fix customer problems.
-    </blockquote>
+      <h3 align="center">Fix customer problems.</h3>
   </footer>
   
  <div align="center">
